@@ -7,7 +7,7 @@ For now only one script is present, but I am hopeful I will update it with more 
 
 🖱️ Click on the link to discover more:)
 
-**[Analysis of the Data Analysts' Jobs](Project_Data_Job_Analysis/sql_load)**
+**[Analysis of the Data Analysts' Jobs](Project_Data_Job_Analysis/README.md)**
 
 # Books read
 
