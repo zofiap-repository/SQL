@@ -16,9 +16,9 @@ This project consists of SQL scripts to manage and analyze a database of books r
 
 # Projects
 
-Click on the link to discover more:)
+🖱️ Click on the link to discover more:)
 
-**[Analysis of the Data Analysts' Jobs](SQL_Project_Data_Job_Analysis\sql_load)**
+**[Analysis of the Data Analysts' Jobs](Project_Data_Job_Analysis\sql_load)**
 
 
 # Queries practiced
